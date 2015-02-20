@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS404: Programming Languages"
+course_description: "A detailed exploration of the design space of programming languages, including the functional, imperative, logic and object-oriented programming languages."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Imperative Programming** <span id="4"></span> 
 *An imperative language uses a series of statements, contained in blocks
 or functions, to control a created state and, ultimately, produce a

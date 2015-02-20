@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS404: Programming Languages"
+course_description: "A detailed exploration of the design space of programming languages, including the functional, imperative, logic and object-oriented programming languages."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Types** <span id="2"></span> 
 *In this unit, you will learn about types, a method of enforcing levels
 of abstraction in programs.  Data in programs come in many types: real

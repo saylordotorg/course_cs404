@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS404: Programming Languages"
+course_description: "A detailed exploration of the design space of programming languages, including the functional, imperative, logic and object-oriented programming languages."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Functional Programming** <span id="3"></span> 
 *Functional programming is not used very frequently in the industry, yet
 it is very powerful.  Functional programming treats computation as the

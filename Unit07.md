@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS404: Programming Languages"
+course_description: "A detailed exploration of the design space of programming languages, including the functional, imperative, logic and object-oriented programming languages."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: Logical Programming** <span id="7"></span> 
 *The relationship between mathematical logic and computer science runs
 deep.  As such, there are a number of programming language tools that

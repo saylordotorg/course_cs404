@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS404: Programming Languages"
+course_description: "A detailed exploration of the design space of programming languages, including the functional, imperative, logic and object-oriented programming languages."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "CS404: Programming Languages"
 --------------------------------------------------
 

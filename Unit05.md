@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS404: Programming Languages"
+course_description: "A detailed exploration of the design space of programming languages, including the functional, imperative, logic and object-oriented programming languages."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Object-Oriented Programming** <span id="5"></span> 
 *Object-Oriented programming languages are widely used in both
 government and industry, thanks to the popularity of Java and its older

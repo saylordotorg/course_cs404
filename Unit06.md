@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS404: Programming Languages"
+course_description: "A detailed exploration of the design space of programming languages, including the functional, imperative, logic and object-oriented programming languages."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Scripting Languages** <span id="6"></span> 
 *Scripts are everywhere in computer science.  Any job in the computer
 science field will require you to write a script at some point or
