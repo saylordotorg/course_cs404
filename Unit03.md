@@ -173,13 +173,13 @@ Upon successful completion of this unit, the student will be able to:
 **Unit 3 Assessment** <span id="3.6"></span> 
 -   **Assessment: The Saylor Foundation’s “Unit 3 Assessment”**
     Link: The Saylor Foundation’s [“Unit 3
-    Assessment”](http://www.saylor.org/site/wp-content/uploads/2012/12/CS404-Unit-3-Assessment-FINAL.pdf)
+    Assessment”](https://resources.saylor.org/archived/wp-content/uploads/2012/12/CS404-Unit-3-Assessment-FINAL.pdf)
     (PDF)  
         
      Instructions: Complete the assessment linked above. When you have
     finished, you may check your answers against the Saylor Foundation’s
     [“Unit 3 Assessment – Answer
-    Key”](http://www.saylor.org/site/wp-content/uploads/2012/12/CS404-Unit-3-Assessment-Answer-Key-FINAL.pdf)
+    Key”](https://resources.saylor.org/archived/wp-content/uploads/2012/12/CS404-Unit-3-Assessment-Answer-Key-FINAL.pdf)
     (PDF).
 
 
