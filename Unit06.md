@@ -174,11 +174,11 @@ Upon successful completion of this unit, the student will be able to:
 **Unit 6 Assessment** <span id="6.6"></span> 
 -   **Assessment: The Saylor Foundation’s “Unit 6 Assessment”**
     Link: The Saylor Foundation’s [“Unit 6
-    Assessment”](http://www.saylor.org/site/wp-content/uploads/2013/01/CS404-Unit-6-Assessment-FINAL.pdf) (PDF)  
+    Assessment”](https://resources.saylor.org/archived/wp-content/uploads/2013/01/CS404-Unit-6-Assessment-FINAL.pdf) (PDF)  
       
      Instructions: Complete the assessment linked above. When you have
     finished, you may check your answers against the Saylor
     Foundation’s [“Unit 6 Assessment – Answer
-    Key”](http://www.saylor.org/site/wp-content/uploads/2013/01/CS404-Unit-6-Assessment-Answer-Key-FINAL.pdf) (PDF).
+    Key”](https://resources.saylor.org/archived/wp-content/uploads/2013/01/CS404-Unit-6-Assessment-Answer-Key-FINAL.pdf) (PDF).
 
 
