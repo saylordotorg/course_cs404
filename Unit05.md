@@ -226,13 +226,13 @@ Programming** <span id="5.1"></span> 
 **Unit 5 Assessment** <span id="5.5"></span> 
 -   **Assessment: The Saylor Foundation’s “Unit 5 Assessment”**
     Link: The Saylor Foundation’s [“Unit 5
-    Assessment”](https://resources.saylor.org/archived/wp-content/uploads/2012/12/CS404-Unit-5-Assessment-FINAL.pdf)
+    Assessment”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/12/CS404-Unit-5-Assessment-FINAL.pdf)
     (PDF)  
         
      Instructions: Complete the assessment linked above. When you have
     finished, you may check your answers against the Saylor Foundation’s
     [“Unit 5 Assessment – Answer
-    Key”](https://resources.saylor.org/archived/wp-content/uploads/2012/12/CS404-Unit-5-Assessment-Answer-Key-FINAL.pdf)
+    Key”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/12/CS404-Unit-5-Assessment-Answer-Key-FINAL.pdf)
     (PDF).
 
 
